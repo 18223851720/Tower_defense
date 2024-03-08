@@ -1,0 +1,4 @@
+repository "Tower defense 3D@lcedt@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

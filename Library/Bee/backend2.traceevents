@@ -1,0 +1,224 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698750106275051, "dur":5204, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106280259, "dur":104, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106280387, "dur":185, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106280769, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles exe/Tower defense 3D_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1698750106281255, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles exe/Tower defense 3D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698750106281912, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles exe/Tower defense 3D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698750106280588, "dur":3109, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106283698, "dur":309451, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106593150, "dur":134, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106593284, "dur":64, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106593441, "dur":1210, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698750106280975, "dur":2728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106283705, "dur":1777, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106285521, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106285627, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1698750106285941, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106286029, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106286142, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106286303, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106286528, "dur":423, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106286952, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106287037, "dur":225, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Tower defense 3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106287307, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player3a67bba3-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1698750106285520, "dur":1922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106287954, "dur":100887, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106389743, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106389743, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/Tower defense 3D_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106389879, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698750106390848, "dur":20140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106411011, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106414953, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106411090, "dur":4086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106415923, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106416015, "dur":56783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106472865, "dur":14010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106486933, "dur":5181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106492164, "dur":15275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106507510, "dur":5126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106512704, "dur":4296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106517044, "dur":8285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106525402, "dur":5778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106531201, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698750106531269, "dur":15825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698750106547128, "dur":8036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698750106555216, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1698750106557152, "dur":36001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106281008, "dur":2709, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106283719, "dur":265, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106284031, "dur":1455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106285509, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106286708, "dur":11644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1698750106298420, "dur":1229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1698750106299951, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1698750106301270, "dur":17338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106318691, "dur":73288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106392040, "dur":20814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106412946, "dur":50268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106463282, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106463355, "dur":21506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106484887, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698750106484957, "dur":5219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106490254, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106494658, "dur":16376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106511096, "dur":4756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106515917, "dur":7034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106523023, "dur":4397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106527464, "dur":5470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106532996, "dur":15054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698750106548093, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1698750106551331, "dur":1295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1698750106552659, "dur":2804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1698750106555497, "dur":37651, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106281000, "dur":2708, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106283714, "dur":357, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106284072, "dur":1416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106286549, "dur":11784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698750106298420, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698750106299648, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698750106300689, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698750106301285, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698750106302629, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106303152, "dur":67588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106370820, "dur":36136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106406981, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106407217, "dur":15146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106422437, "dur":40781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106463358, "dur":21555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106484936, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106485025, "dur":5155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106490256, "dur":4830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106495171, "dur":16337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106511527, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698750106511664, "dur":4828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106516542, "dur":7757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106524343, "dur":5929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106530431, "dur":13524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106544024, "dur":9025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698750106553078, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698750106555719, "dur":37445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106281032, "dur":2690, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106283724, "dur":275, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106284000, "dur":1483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106285519, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106297120, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1698750106298777, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698750106301475, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106300037, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698750106301633, "dur":22475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D.exe" }}
+,{ "pid":12345, "tid":4, "ts":1698750106324191, "dur":72369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106396643, "dur":50528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106447235, "dur":20102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106467402, "dur":18144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106485635, "dur":5409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106491092, "dur":5189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106496362, "dur":17480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106513898, "dur":5066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106519018, "dur":7054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106526129, "dur":5603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106531753, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698750106532025, "dur":13060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106545129, "dur":9689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698750106554879, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1698750106556870, "dur":36298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106281058, "dur":2669, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106283729, "dur":266, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106283995, "dur":1492, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106285530, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106287480, "dur":11148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1698750106298727, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1698750106300117, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1698750106303314, "dur":6293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1698750106309836, "dur":80131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106390074, "dur":21118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106411248, "dur":7365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106418683, "dur":54146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106472880, "dur":14019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106486952, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106491542, "dur":4702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106496320, "dur":17507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106513897, "dur":5070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106519029, "dur":5704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106524780, "dur":5491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106530427, "dur":13158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106551555, "dur":293, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106543637, "dur":8227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698750106551924, "dur":134, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106552479, "dur":2989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1698750106556944, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698750106555498, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1698750106557043, "dur":36115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106281080, "dur":2660, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106283742, "dur":263, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106284005, "dur":1480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106285529, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106297400, "dur":1385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1698750106298869, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1698750106300310, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106300437, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1698750106302491, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106303369, "dur":34759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106338174, "dur":58380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106396646, "dur":56380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106453097, "dur":6287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106459455, "dur":14607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106474127, "dur":13344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106487517, "dur":4879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106492462, "dur":4723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106497269, "dur":17302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106514642, "dur":4703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106519364, "dur":265, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106519642, "dur":6665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106526379, "dur":17209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106543646, "dur":5564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698750106551655, "dur":447, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698750106549293, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1698750106552157, "dur":2925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698750106555113, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698750106559792, "dur":33358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106281100, "dur":2654, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106283755, "dur":242, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106283998, "dur":1486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106286364, "dur":26124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1698750106312608, "dur":78783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106391432, "dur":20888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106412383, "dur":50978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106463419, "dur":20109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106483595, "dur":5228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106488851, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106488939, "dur":4857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106493817, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698750106493890, "dur":17140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106511094, "dur":4843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106516000, "dur":6956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106523015, "dur":6284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106529369, "dur":13600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106543044, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698750106547181, "dur":45918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106281133, "dur":2624, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698750106283757, "dur":246, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698750106284003, "dur":1482, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698750106286354, "dur":12118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1698750106298838, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1698750106299901, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.8f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1698750106299899, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1698750106300066, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1698750106301617, "dur":69141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106370831, "dur":36128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106407099, "dur":25387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106432561, "dur":49489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106482108, "dur":6722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106488937, "dur":4293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106493338, "dur":14699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106508089, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106515001, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698750106515084, "dur":5670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106520821, "dur":6165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106527025, "dur":6512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106533596, "dur":14643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698750106548431, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698750106548510, "dur":7411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/Tower defense 3D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698750106555938, "dur":37208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698750106596701, "dur":778, "ph":"X", "name": "ProfilerWriteOutput" }
+,
